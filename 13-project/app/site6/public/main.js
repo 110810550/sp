@@ -48,5 +48,5 @@ fe6.on('load', async ()=> {
     node.innerHTML = html
     MathJax.typesetPromise([node]).then(() => {});
   })
-  fe6.start('#/')
+  fe6.start(fe6.hash())
 })
