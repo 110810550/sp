@@ -229,7 +229,7 @@ let TABLE = function() {
     let line1 = lines[lineIdx];
     if (line1.indexOf('|') < 0) return null;
     let line2 = lines[lineIdx + 1];
-    m = line2.match(/^(\-*?\|)+\-*?$/);
+    let m = line2.match(/^(\-*?\|)+\-*?$/);
     if (m == null) return null;
     let childs = [
         genLine(line1),
