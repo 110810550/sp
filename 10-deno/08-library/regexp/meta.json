@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "regexp1.js",
+      "isDirectory": false
+    },
+    {
+      "name": "regexp2.js",
+      "isDirectory": false
+    }
+  ]
+}

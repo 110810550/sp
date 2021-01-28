@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "name": "00-bundle",
+      "isDirectory": true
+    },
+    {
+      "name": "01-hello",
+      "isDirectory": true
+    },
+    {
+      "name": "02-basic",
+      "isDirectory": true
+    },
+    {
+      "name": "03-array",
+      "isDirectory": true
+    },
+    {
+      "name": "04-function",
+      "isDirectory": true
+    },
+    {
+      "name": "05-fptr",
+      "isDirectory": true
+    },
+    {
+      "name": "06-json",
+      "isDirectory": true
+    },
+    {
+      "name": "07-object",
+      "isDirectory": true
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    }
+  ]
+}

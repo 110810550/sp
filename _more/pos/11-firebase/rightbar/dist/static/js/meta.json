@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "name": "app.451c21d344ad9a60387a.js",
+      "isDirectory": false
+    },
+    {
+      "name": "app.451c21d344ad9a60387a.js.map",
+      "isDirectory": false
+    },
+    {
+      "name": "manifest.81264c0ebf6f8ceadb45.js",
+      "isDirectory": false
+    },
+    {
+      "name": "manifest.81264c0ebf6f8ceadb45.js.map",
+      "isDirectory": false
+    },
+    {
+      "name": "vendor.2260f77635ec6f01c780.js",
+      "isDirectory": false
+    },
+    {
+      "name": "vendor.2260f77635ec6f01c780.js.map",
+      "isDirectory": false
+    }
+  ]
+}

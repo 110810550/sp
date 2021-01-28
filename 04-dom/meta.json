@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "name": "01-basic",
+      "isDirectory": true
+    },
+    {
+      "name": "calculator.html",
+      "isDirectory": false
+    },
+    {
+      "name": "clock.html",
+      "isDirectory": false
+    },
+    {
+      "name": "countdown.html",
+      "isDirectory": false
+    },
+    {
+      "name": "e2c.js",
+      "isDirectory": false
+    },
+    {
+      "name": "editable.html",
+      "isDirectory": false
+    },
+    {
+      "name": "getInner.html",
+      "isDirectory": false
+    },
+    {
+      "name": "httpServer.js",
+      "isDirectory": false
+    },
+    {
+      "name": "jsStyle.html",
+      "isDirectory": false
+    },
+    {
+      "name": "menu.htm",
+      "isDirectory": false
+    },
+    {
+      "name": "onclick.html",
+      "isDirectory": false
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "showHide.html",
+      "isDirectory": false
+    },
+    {
+      "name": "translator.html",
+      "isDirectory": false
+    }
+  ]
+}

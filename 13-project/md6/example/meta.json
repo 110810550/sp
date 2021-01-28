@@ -3,6 +3,10 @@
     {
       "name": "ex1.js",
       "isDirectory": false
+    },
+    {
+      "name": "meta.json",
+      "isDirectory": false
     }
   ]
 }

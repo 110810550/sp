@@ -1,0 +1,68 @@
+{
+  "entries": [
+    {
+      "name": ".babelrc",
+      "isDirectory": false
+    },
+    {
+      "name": ".editorconfig",
+      "isDirectory": false
+    },
+    {
+      "name": ".eslintignore",
+      "isDirectory": false
+    },
+    {
+      "name": ".eslintrc.js",
+      "isDirectory": false
+    },
+    {
+      "name": ".gitignore",
+      "isDirectory": false
+    },
+    {
+      "name": ".postcssrc.js",
+      "isDirectory": false
+    },
+    {
+      "name": "build",
+      "isDirectory": true
+    },
+    {
+      "name": "config",
+      "isDirectory": true
+    },
+    {
+      "name": "dist",
+      "isDirectory": true
+    },
+    {
+      "name": "firebase.md",
+      "isDirectory": false
+    },
+    {
+      "name": "index.html",
+      "isDirectory": false
+    },
+    {
+      "name": "package.json",
+      "isDirectory": false
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "src",
+      "isDirectory": true
+    },
+    {
+      "name": "static",
+      "isDirectory": true
+    },
+    {
+      "name": "test",
+      "isDirectory": true
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "name": "ccc.jpg",
+      "isDirectory": false
+    },
+    {
+      "name": "F7501.gif",
+      "isDirectory": false
+    },
+    {
+      "name": "form.htm",
+      "isDirectory": false
+    },
+    {
+      "name": "format.htm",
+      "isDirectory": false
+    },
+    {
+      "name": "header1_6.htm",
+      "isDirectory": false
+    },
+    {
+      "name": "hello1.htm",
+      "isDirectory": false
+    },
+    {
+      "name": "hello3.htm",
+      "isDirectory": false
+    },
+    {
+      "name": "hello4.htm",
+      "isDirectory": false
+    },
+    {
+      "name": "img.htm",
+      "isDirectory": false
+    },
+    {
+      "name": "link.htm",
+      "isDirectory": false
+    },
+    {
+      "name": "list.htm",
+      "isDirectory": false
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "table.htm",
+      "isDirectory": false
+    },
+    {
+      "name": "test.html",
+      "isDirectory": false
+    },
+    {
+      "name": "w3schools",
+      "isDirectory": true
+    }
+  ]
+}

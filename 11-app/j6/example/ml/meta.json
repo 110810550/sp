@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "decisionTree.js",
+      "isDirectory": false
+    },
+    {
+      "name": "logistics.js",
+      "isDirectory": false
+    },
+    {
+      "name": "svm.js",
+      "isDirectory": false
+    }
+  ]
+}

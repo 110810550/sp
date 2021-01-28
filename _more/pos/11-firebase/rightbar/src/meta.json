@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "name": "App.vue",
+      "isDirectory": false
+    },
+    {
+      "name": "assets",
+      "isDirectory": true
+    },
+    {
+      "name": "components",
+      "isDirectory": true
+    },
+    {
+      "name": "lib",
+      "isDirectory": true
+    },
+    {
+      "name": "main.js",
+      "isDirectory": false
+    },
+    {
+      "name": "router",
+      "isDirectory": true
+    }
+  ]
+}

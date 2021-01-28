@@ -1,6 +1,10 @@
 {
   "entries": [
     {
+      "name": "meta.json",
+      "isDirectory": false
+    },
+    {
       "name": "uu6.js",
       "isDirectory": false
     }

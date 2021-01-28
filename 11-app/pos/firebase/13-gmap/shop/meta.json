@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "name": "Pos.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Report.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Setting.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Shop.js",
+      "isDirectory": false
+    },
+    {
+      "name": "ShopTable.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Storage.js",
+      "isDirectory": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "name": "Model.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Pos.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Report.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Setting.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Shop.html",
+      "isDirectory": false
+    },
+    {
+      "name": "Shop.js",
+      "isDirectory": false
+    },
+    {
+      "name": "ShopMain.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Storage.js",
+      "isDirectory": false
+    }
+  ]
+}

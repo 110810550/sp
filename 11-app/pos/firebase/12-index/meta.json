@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "name": "bug.md",
+      "isDirectory": false
+    },
+    {
+      "name": "css",
+      "isDirectory": true
+    },
+    {
+      "name": "index.html",
+      "isDirectory": false
+    },
+    {
+      "name": "lib",
+      "isDirectory": true
+    },
+    {
+      "name": "package.json",
+      "isDirectory": false
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "shop",
+      "isDirectory": true
+    },
+    {
+      "name": "user",
+      "isDirectory": true
+    }
+  ]
+}

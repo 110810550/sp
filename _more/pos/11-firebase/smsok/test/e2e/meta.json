@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "name": "custom-assertions",
+      "isDirectory": true
+    },
+    {
+      "name": "nightwatch.conf.js",
+      "isDirectory": false
+    },
+    {
+      "name": "runner.js",
+      "isDirectory": false
+    },
+    {
+      "name": "specs",
+      "isDirectory": true
+    }
+  ]
+}

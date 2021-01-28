@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "name": "index.html",
+      "isDirectory": false
+    },
+    {
+      "name": "static",
+      "isDirectory": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "name": "08-library",
+      "isDirectory": true
+    },
+    {
+      "name": "09-module",
+      "isDirectory": true
+    },
+    {
+      "name": "10-file",
+      "isDirectory": true
+    },
+    {
+      "name": "12-network",
+      "isDirectory": true
+    }
+  ]
+}

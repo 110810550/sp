@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "name": "factorial.js",
+      "isDirectory": false
+    },
+    {
+      "name": "function.js",
+      "isDirectory": false
+    },
+    {
+      "name": "max.js",
+      "isDirectory": false
+    },
+    {
+      "name": "modify.js",
+      "isDirectory": false
+    },
+    {
+      "name": "prime.js",
+      "isDirectory": false
+    },
+    {
+      "name": "sum.js",
+      "isDirectory": false
+    }
+  ]
+}

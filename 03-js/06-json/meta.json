@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "name": "c2e.js",
+      "isDirectory": false
+    },
+    {
+      "name": "dict.js",
+      "isDirectory": false
+    },
+    {
+      "name": "dlook.js",
+      "isDirectory": false
+    },
+    {
+      "name": "e2c.js",
+      "isDirectory": false
+    },
+    {
+      "name": "json.js",
+      "isDirectory": false
+    }
+  ]
+}

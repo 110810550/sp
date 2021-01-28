@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "01-hello",
+      "isDirectory": true
+    },
+    {
+      "name": "02-time",
+      "isDirectory": true
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "app",
+      "isDirectory": true
+    },
+    {
+      "name": "googlemap1.html",
+      "isDirectory": false
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    }
+  ]
+}

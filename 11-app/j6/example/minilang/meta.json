@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "gen.js",
+      "isDirectory": false
+    },
+    {
+      "name": "statisticsLearner.js",
+      "isDirectory": false
+    },
+    {
+      "name": "word2vec.js",
+      "isDirectory": false
+    }
+  ]
+}

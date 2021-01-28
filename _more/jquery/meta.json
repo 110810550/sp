@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "gomoku",
+      "isDirectory": true
+    },
+    {
+      "name": "jquery_example.html",
+      "isDirectory": false
+    },
+    {
+      "name": "ox",
+      "isDirectory": true
+    }
+  ]
+}

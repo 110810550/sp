@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "compiler.js",
+      "isDirectory": false
+    },
+    {
+      "name": "generator.js",
+      "isDirectory": false
+    },
+    {
+      "name": "mod.js",
+      "isDirectory": false
+    }
+  ]
+}

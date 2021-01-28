@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "01-location",
+      "isDirectory": true
+    },
+    {
+      "name": "02-hash",
+      "isDirectory": true
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    }
+  ]
+}

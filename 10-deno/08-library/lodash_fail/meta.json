@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "lodashTest.ts",
+      "isDirectory": false
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "xlodash.ts",
+      "isDirectory": false
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "name": "algebraEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "animal.kb",
+      "isDirectory": false
+    },
+    {
+      "name": "animal_ostrich.kb",
+      "isDirectory": false
+    },
+    {
+      "name": "centralLimitEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "complexEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "emLearningEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "fftEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "functionEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "geometryEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "kbQuery.js",
+      "isDirectory": false
+    },
+    {
+      "name": "matrixEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "minilang",
+      "isDirectory": true
+    },
+    {
+      "name": "minSquareEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "ml",
+      "isDirectory": true
+    },
+    {
+      "name": "neural",
+      "isDirectory": true
+    },
+    {
+      "name": "nn",
+      "isDirectory": true
+    },
+    {
+      "name": "probabilityEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "setEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "solveEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "splineEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "statisticsEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "symbolEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "tensorEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "test.kb",
+      "isDirectory": false
+    },
+    {
+      "name": "testEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "transformEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "utilEx.js",
+      "isDirectory": false
+    },
+    {
+      "name": "vectorEx.js",
+      "isDirectory": false
+    }
+  ]
+}

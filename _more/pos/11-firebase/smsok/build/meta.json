@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "name": "build.js",
+      "isDirectory": false
+    },
+    {
+      "name": "check-versions.js",
+      "isDirectory": false
+    },
+    {
+      "name": "logo.png",
+      "isDirectory": false
+    },
+    {
+      "name": "utils.js",
+      "isDirectory": false
+    },
+    {
+      "name": "vue-loader.conf.js",
+      "isDirectory": false
+    },
+    {
+      "name": "webpack.base.conf.js",
+      "isDirectory": false
+    },
+    {
+      "name": "webpack.dev.conf.js",
+      "isDirectory": false
+    },
+    {
+      "name": "webpack.prod.conf.js",
+      "isDirectory": false
+    }
+  ]
+}

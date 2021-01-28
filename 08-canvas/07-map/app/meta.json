@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "app.html",
+      "isDirectory": false
+    },
+    {
+      "name": "app.js",
+      "isDirectory": false
+    },
+    {
+      "name": "style.css",
+      "isDirectory": false
+    }
+  ]
+}

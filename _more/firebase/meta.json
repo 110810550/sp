@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "name": "notepad",
+      "isDirectory": true
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    }
+  ]
+}

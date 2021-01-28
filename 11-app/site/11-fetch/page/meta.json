@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "name": "chart_simple.html",
+      "isDirectory": false
+    },
+    {
+      "name": "home.html",
+      "isDirectory": false
+    },
+    {
+      "name": "login.html",
+      "isDirectory": false
+    },
+    {
+      "name": "logout.html",
+      "isDirectory": false
+    },
+    {
+      "name": "map_simple.html",
+      "isDirectory": false
+    },
+    {
+      "name": "signin.html",
+      "isDirectory": false
+    },
+    {
+      "name": "title.html",
+      "isDirectory": false
+    }
+  ]
+}

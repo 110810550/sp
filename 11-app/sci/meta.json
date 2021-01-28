@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "sci.css",
+      "isDirectory": false
+    },
+    {
+      "name": "sci.html",
+      "isDirectory": false
+    },
+    {
+      "name": "sci.js",
+      "isDirectory": false
+    }
+  ]
+}

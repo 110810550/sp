@@ -3,6 +3,10 @@
     {
       "name": "db6.js",
       "isDirectory": false
+    },
+    {
+      "name": "meta.json",
+      "isDirectory": false
     }
   ]
 }

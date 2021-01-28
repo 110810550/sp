@@ -1,1 +1,1 @@
-deno run -A genMeta.js ../../
+deno run -A genMeta.js ../../../

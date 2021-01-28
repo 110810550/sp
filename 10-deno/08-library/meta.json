@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "name": "clock.js",
+      "isDirectory": false
+    },
+    {
+      "name": "lodash_fail",
+      "isDirectory": true
+    },
+    {
+      "name": "package.json",
+      "isDirectory": false
+    },
+    {
+      "name": "random",
+      "isDirectory": true
+    },
+    {
+      "name": "regexp",
+      "isDirectory": true
+    }
+  ]
+}

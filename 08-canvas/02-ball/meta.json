@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "name": "backup",
+      "isDirectory": true
+    },
+    {
+      "name": "ball.jpg",
+      "isDirectory": false
+    },
+    {
+      "name": "ball.png",
+      "isDirectory": false
+    },
+    {
+      "name": "ballgame1.html",
+      "isDirectory": false
+    },
+    {
+      "name": "ballmove1.html",
+      "isDirectory": false
+    },
+    {
+      "name": "ballmove2.html",
+      "isDirectory": false
+    }
+  ]
+}

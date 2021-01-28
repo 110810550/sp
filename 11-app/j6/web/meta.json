@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "name": "editor.js",
+      "isDirectory": false
+    },
+    {
+      "name": "favicon.ico",
+      "isDirectory": false
+    },
+    {
+      "name": "g6.js",
+      "isDirectory": false
+    },
+    {
+      "name": "j6.css",
+      "isDirectory": false
+    },
+    {
+      "name": "j6.js",
+      "isDirectory": false
+    },
+    {
+      "name": "_j6.js",
+      "isDirectory": false
+    }
+  ]
+}

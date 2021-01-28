@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "name": "favicon.ico",
+      "isDirectory": false
+    },
+    {
+      "name": "j6.html",
+      "isDirectory": false
+    },
+    {
+      "name": "lib",
+      "isDirectory": true
+    },
+    {
+      "name": "main.js",
+      "isDirectory": false
+    },
+    {
+      "name": "package.json",
+      "isDirectory": false
+    }
+  ]
+}

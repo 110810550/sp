@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "09-db",
+      "isDirectory": true
+    },
+    {
+      "name": "local1.html",
+      "isDirectory": false
+    },
+    {
+      "name": "local2.html",
+      "isDirectory": false
+    }
+  ]
+}

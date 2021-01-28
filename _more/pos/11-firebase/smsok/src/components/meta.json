@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "name": "Headbar.vue",
+      "isDirectory": false
+    },
+    {
+      "name": "HelloWorld.vue",
+      "isDirectory": false
+    },
+    {
+      "name": "LandingPage.vue",
+      "isDirectory": false
+    },
+    {
+      "name": "MainContent.vue",
+      "isDirectory": false
+    },
+    {
+      "name": "MainPage.vue",
+      "isDirectory": false
+    },
+    {
+      "name": "MessageList.vue",
+      "isDirectory": false
+    },
+    {
+      "name": "MessageNew.vue",
+      "isDirectory": false
+    },
+    {
+      "name": "messages.json",
+      "isDirectory": false
+    },
+    {
+      "name": "Sidenav.vue",
+      "isDirectory": false
+    }
+  ]
+}

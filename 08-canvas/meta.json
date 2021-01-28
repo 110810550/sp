@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "name": "01-basic",
+      "isDirectory": true
+    },
+    {
+      "name": "02-ball",
+      "isDirectory": true
+    },
+    {
+      "name": "03-event",
+      "isDirectory": true
+    },
+    {
+      "name": "04-save",
+      "isDirectory": true
+    },
+    {
+      "name": "05-painter",
+      "isDirectory": true
+    },
+    {
+      "name": "06-game",
+      "isDirectory": true
+    },
+    {
+      "name": "07-map",
+      "isDirectory": true
+    },
+    {
+      "name": "08-imagefilter",
+      "isDirectory": true
+    },
+    {
+      "name": "09-sketchpad",
+      "isDirectory": true
+    }
+  ]
+}

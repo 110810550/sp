@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "name": "css",
+      "isDirectory": true
+    },
+    {
+      "name": "html",
+      "isDirectory": true
+    },
+    {
+      "name": "js",
+      "isDirectory": true
+    },
+    {
+      "name": "md",
+      "isDirectory": true
+    },
+    {
+      "name": "package.json",
+      "isDirectory": false
+    },
+    {
+      "name": "page",
+      "isDirectory": true
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "test",
+      "isDirectory": true
+    }
+  ]
+}

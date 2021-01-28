@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "name": "fireService.js",
+      "isDirectory": false
+    },
+    {
+      "name": "markdown.js",
+      "isDirectory": false
+    },
+    {
+      "name": "messages.json",
+      "isDirectory": false
+    },
+    {
+      "name": "mixin.js",
+      "isDirectory": false
+    },
+    {
+      "name": "mt.js",
+      "isDirectory": false
+    },
+    {
+      "name": "service.js",
+      "isDirectory": false
+    },
+    {
+      "name": "shared.js",
+      "isDirectory": false
+    }
+  ]
+}

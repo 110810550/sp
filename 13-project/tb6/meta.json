@@ -1,6 +1,10 @@
 {
   "entries": [
     {
+      "name": "meta.json",
+      "isDirectory": false
+    },
+    {
       "name": "tb6.js",
       "isDirectory": false
     }

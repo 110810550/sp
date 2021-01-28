@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "01-topbar",
+      "isDirectory": true
+    },
+    {
+      "name": "02-modularize",
+      "isDirectory": true
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    }
+  ]
+}

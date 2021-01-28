@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "name": "algebra.js",
+      "isDirectory": false
+    },
+    {
+      "name": "calculus.js",
+      "isDirectory": false
+    },
+    {
+      "name": "distance.js",
+      "isDirectory": false
+    },
+    {
+      "name": "entropy.js",
+      "isDirectory": false
+    },
+    {
+      "name": "function.js",
+      "isDirectory": false
+    },
+    {
+      "name": "geometry.js",
+      "isDirectory": false
+    },
+    {
+      "name": "image.js",
+      "isDirectory": false
+    },
+    {
+      "name": "j6.js",
+      "isDirectory": false
+    },
+    {
+      "name": "kb.js",
+      "isDirectory": false
+    },
+    {
+      "name": "matrix.js",
+      "isDirectory": false
+    },
+    {
+      "name": "optimize.js",
+      "isDirectory": false
+    },
+    {
+      "name": "probability.js",
+      "isDirectory": false
+    },
+    {
+      "name": "set.js",
+      "isDirectory": false
+    },
+    {
+      "name": "statistics.js",
+      "isDirectory": false
+    },
+    {
+      "name": "tensor.js",
+      "isDirectory": false
+    },
+    {
+      "name": "test.js",
+      "isDirectory": false
+    },
+    {
+      "name": "util.js",
+      "isDirectory": false
+    },
+    {
+      "name": "vector.js",
+      "isDirectory": false
+    }
+  ]
+}

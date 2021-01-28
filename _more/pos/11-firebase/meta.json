@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "name": "blog",
+      "isDirectory": true
+    },
+    {
+      "name": "hello",
+      "isDirectory": true
+    },
+    {
+      "name": "notepad",
+      "isDirectory": true
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "rightbar",
+      "isDirectory": true
+    },
+    {
+      "name": "smsok",
+      "isDirectory": true
+    },
+    {
+      "name": "urspace.md",
+      "isDirectory": false
+    }
+  ]
+}

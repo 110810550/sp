@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "name": "07-history",
+      "isDirectory": true
+    },
+    {
+      "name": "08-storage",
+      "isDirectory": true
+    },
+    {
+      "name": "09-firebase",
+      "isDirectory": true
+    },
+    {
+      "name": "10-modularize",
+      "isDirectory": true
+    },
+    {
+      "name": "11-user",
+      "isDirectory": true
+    },
+    {
+      "name": "12-index",
+      "isDirectory": true
+    },
+    {
+      "name": "13-gmap",
+      "isDirectory": true
+    },
+    {
+      "name": "14-firebasePos",
+      "isDirectory": true
+    }
+  ]
+}

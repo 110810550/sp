@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "name": "googleMt_fail",
+      "isDirectory": true
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    }
+  ]
+}

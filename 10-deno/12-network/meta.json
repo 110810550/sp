@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "crawler.js",
+      "isDirectory": false
+    },
+    {
+      "name": "listurl.js",
+      "isDirectory": false
+    },
+    {
+      "name": "pageget.js",
+      "isDirectory": false
+    }
+  ]
+}

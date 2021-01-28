@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "name": "e2e",
+      "isDirectory": true
+    },
+    {
+      "name": "unit",
+      "isDirectory": true
+    }
+  ]
+}

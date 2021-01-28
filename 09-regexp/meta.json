@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "name": "grepAllRef.js",
+      "isDirectory": false
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "regexp1.js",
+      "isDirectory": false
+    },
+    {
+      "name": "split1.js",
+      "isDirectory": false
+    }
+  ]
+}

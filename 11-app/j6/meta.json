@@ -1,0 +1,52 @@
+{
+  "entries": [
+    {
+      "name": "demo",
+      "isDirectory": true
+    },
+    {
+      "name": "example",
+      "isDirectory": true
+    },
+    {
+      "name": "ide",
+      "isDirectory": true
+    },
+    {
+      "name": "img",
+      "isDirectory": true
+    },
+    {
+      "name": "lib",
+      "isDirectory": true
+    },
+    {
+      "name": "LICENSE",
+      "isDirectory": false
+    },
+    {
+      "name": "package.json",
+      "isDirectory": false
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "server.js",
+      "isDirectory": false
+    },
+    {
+      "name": "setting.json",
+      "isDirectory": false
+    },
+    {
+      "name": "test",
+      "isDirectory": true
+    },
+    {
+      "name": "web",
+      "isDirectory": true
+    }
+  ]
+}

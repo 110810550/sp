@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "name": ".git",
+      "isDirectory": true
+    },
+    {
+      "name": ".gitignore",
+      "isDirectory": false
+    },
+    {
+      "name": "01-html",
+      "isDirectory": true
+    },
+    {
+      "name": "02-css",
+      "isDirectory": true
+    },
+    {
+      "name": "03-js",
+      "isDirectory": true
+    },
+    {
+      "name": "04-dom",
+      "isDirectory": true
+    },
+    {
+      "name": "05-bom",
+      "isDirectory": true
+    },
+    {
+      "name": "06-module",
+      "isDirectory": true
+    },
+    {
+      "name": "07-storage",
+      "isDirectory": true
+    },
+    {
+      "name": "08-canvas",
+      "isDirectory": true
+    },
+    {
+      "name": "09-regexp",
+      "isDirectory": true
+    },
+    {
+      "name": "10-deno",
+      "isDirectory": true
+    },
+    {
+      "name": "11-app",
+      "isDirectory": true
+    },
+    {
+      "name": "12-se",
+      "isDirectory": true
+    },
+    {
+      "name": "13-project",
+      "isDirectory": true
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "_doc",
+      "isDirectory": true
+    },
+    {
+      "name": "_more",
+      "isDirectory": true
+    }
+  ]
+}

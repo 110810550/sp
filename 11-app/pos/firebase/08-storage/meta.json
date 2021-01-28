@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "name": "bug.md",
+      "isDirectory": false
+    },
+    {
+      "name": "Db.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Lib.js",
+      "isDirectory": false
+    },
+    {
+      "name": "main.css",
+      "isDirectory": false
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "shop",
+      "isDirectory": true
+    },
+    {
+      "name": "Ui.js",
+      "isDirectory": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "name": "dom1.js",
+      "isDirectory": false
+    },
+    {
+      "name": "dom1.ts",
+      "isDirectory": false
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "tsconfig.json",
+      "isDirectory": false
+    }
+  ]
+}

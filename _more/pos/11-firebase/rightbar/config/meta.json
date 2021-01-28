@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "name": "dev.env.js",
+      "isDirectory": false
+    },
+    {
+      "name": "index.js",
+      "isDirectory": false
+    },
+    {
+      "name": "prod.env.js",
+      "isDirectory": false
+    },
+    {
+      "name": "test.env.js",
+      "isDirectory": false
+    }
+  ]
+}

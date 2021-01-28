@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "name": "bootstrap.min.css",
+      "isDirectory": false
+    },
+    {
+      "name": "bootstrap.min.js",
+      "isDirectory": false
+    },
+    {
+      "name": "c3.css",
+      "isDirectory": false
+    },
+    {
+      "name": "c3.js",
+      "isDirectory": false
+    },
+    {
+      "name": "codemirror.css",
+      "isDirectory": false
+    },
+    {
+      "name": "codemirror.js",
+      "isDirectory": false
+    },
+    {
+      "name": "d3.js",
+      "isDirectory": false
+    },
+    {
+      "name": "ie-emulation-modes-warning.js",
+      "isDirectory": false
+    },
+    {
+      "name": "ie10-viewport-bug-workaround.css",
+      "isDirectory": false
+    },
+    {
+      "name": "ie10-viewport-bug-workaround.js",
+      "isDirectory": false
+    },
+    {
+      "name": "javascript.js",
+      "isDirectory": false
+    },
+    {
+      "name": "jquery.min.js",
+      "isDirectory": false
+    },
+    {
+      "name": "vis.css",
+      "isDirectory": false
+    },
+    {
+      "name": "vis.js",
+      "isDirectory": false
+    }
+  ]
+}

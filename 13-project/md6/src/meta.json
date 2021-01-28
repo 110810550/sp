@@ -9,6 +9,10 @@
       "isDirectory": false
     },
     {
+      "name": "meta.json",
+      "isDirectory": false
+    },
+    {
       "name": "mod.js",
       "isDirectory": false
     }

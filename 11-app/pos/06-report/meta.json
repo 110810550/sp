@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "name": "index.html",
+      "isDirectory": false
+    },
+    {
+      "name": "Lib.js",
+      "isDirectory": false
+    },
+    {
+      "name": "main.css",
+      "isDirectory": false
+    },
+    {
+      "name": "Pos.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Report.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Setting.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Shop.js",
+      "isDirectory": false
+    },
+    {
+      "name": "Ui.js",
+      "isDirectory": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "name": "hello.html",
+      "isDirectory": false
+    },
+    {
+      "name": "hello.js",
+      "isDirectory": false
+    }
+  ]
+}

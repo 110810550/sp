@@ -1,0 +1,48 @@
+{
+  "entries": [
+    {
+      "name": "copyfile.js",
+      "isDirectory": false
+    },
+    {
+      "name": "copyfileCallback.js",
+      "isDirectory": false
+    },
+    {
+      "name": "copyfileCallback2.js",
+      "isDirectory": false
+    },
+    {
+      "name": "copyfileEs6.js",
+      "isDirectory": false
+    },
+    {
+      "name": "copyfileEs6.js2",
+      "isDirectory": false
+    },
+    {
+      "name": "copyfileEs6.js3",
+      "isDirectory": false
+    },
+    {
+      "name": "mynode.js",
+      "isDirectory": false
+    },
+    {
+      "name": "readfile.js",
+      "isDirectory": false
+    },
+    {
+      "name": "readfileCallback.js",
+      "isDirectory": false
+    },
+    {
+      "name": "readline.js",
+      "isDirectory": false
+    },
+    {
+      "name": "readloop.js",
+      "isDirectory": false
+    }
+  ]
+}
