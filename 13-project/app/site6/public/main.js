@@ -19,30 +19,30 @@ fe6.on('load', async ()=> {
   console.log('onload')
   fe6.route(/#(.*)/, async function(m) {
     let path=m[1]
-    console.log('path=', path)
     fe6.one('#header').innerHTML = path2html(path)
-    let r = await fetch(path)
-    let type = r.headers.get("Content-Type")
-    console.log('r=', r)
-    console.log('type=', type)
-    var html = ''
-    if (type.indexOf('markdown')>=0) {
+    console.log('path=', path)
+    let html = ''
+    if (path.endsWith('.md')) {
+      let r = await fetch(path)
       let text = await r.text()
       html = md6.toHtml(text)
-    } else if (type.indexOf('json')>=0) {
-      var fList = await r.json()
-      console.log('fList=', fList)
-      var rows = []
-      for (let f of fList) {
-        var name = f.isDirectory ? f.name+'/' : f.name 
+    } else if (path.endsWith('/')) {
+      let r = await fetch(`${path}meta.json`)
+      let meta = await r.json()
+      console.log('meta=', meta)
+      let rows = []
+      for (let entry of meta.entries) {
+        let name = entry.name
+        if (entry.isDirectory) name += '/'
         rows.push(`<tr><td><a href="#${path}${name}">${name}</a></td></tr>`)
       }
       html = `<table><tr><th>File</th></tr>${rows.join('\n')}</table>`
     } else {
+      let r = await fetch(path)
       let text = await r.text()
       html = `<pre>${fe6.escape(text)}</pre>`
     }
-    var node = fe6.one('#main')
+    let node = fe6.one('#main')
     // MathJax 參考 -- http://docs.mathjax.org/en/latest/web/typeset.html
     MathJax.typesetClear([node])
     node.innerHTML = html

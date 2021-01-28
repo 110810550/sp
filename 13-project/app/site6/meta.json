@@ -1,0 +1,36 @@
+{
+  "entries": [
+    {
+      "name": "gen.sh",
+      "isDirectory": false
+    },
+    {
+      "name": "genMeta.js",
+      "isDirectory": false
+    },
+    {
+      "name": "meta.json",
+      "isDirectory": false
+    },
+    {
+      "name": "public",
+      "isDirectory": true
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "server.js",
+      "isDirectory": false
+    },
+    {
+      "name": "server.sh",
+      "isDirectory": false
+    },
+    {
+      "name": "tex.md",
+      "isDirectory": false
+    }
+  ]
+}

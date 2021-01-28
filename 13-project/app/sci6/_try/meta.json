@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "name": "02-exec",
+      "isDirectory": true
+    },
+    {
+      "name": "meta.json",
+      "isDirectory": false
+    }
+  ]
+}

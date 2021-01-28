@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "name": "meta.json",
+      "isDirectory": false
+    },
+    {
+      "name": "static",
+      "isDirectory": true
+    },
+    {
+      "name": "test",
+      "isDirectory": true
+    },
+    {
+      "name": "wserver.py",
+      "isDirectory": false
+    }
+  ]
+}

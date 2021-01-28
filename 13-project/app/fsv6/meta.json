@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "fsv6.js",
+      "isDirectory": false
+    },
+    {
+      "name": "meta.json",
+      "isDirectory": false
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "entries": [
+    {
+      "name": "fsv6",
+      "isDirectory": true
+    },
+    {
+      "name": "git6",
+      "isDirectory": true
+    },
+    {
+      "name": "meta.json",
+      "isDirectory": false
+    },
+    {
+      "name": "pos6",
+      "isDirectory": true
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "sci6",
+      "isDirectory": true
+    },
+    {
+      "name": "site6",
+      "isDirectory": true
+    }
+  ]
+}

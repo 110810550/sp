@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "index.html",
+      "isDirectory": false
+    },
+    {
+      "name": "main.js",
+      "isDirectory": false
+    },
+    {
+      "name": "meta.json",
+      "isDirectory": false
+    }
+  ]
+}

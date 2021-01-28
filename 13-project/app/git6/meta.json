@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "name": "git6.js",
+      "isDirectory": false
+    },
+    {
+      "name": "index.html",
+      "isDirectory": false
+    },
+    {
+      "name": "meta.json",
+      "isDirectory": false
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    },
+    {
+      "name": "tex.md",
+      "isDirectory": false
+    }
+  ]
+}

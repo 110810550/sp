@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "name": "de6.js",
+      "isDirectory": false
+    },
+    {
+      "name": "example",
+      "isDirectory": true
+    },
+    {
+      "name": "README.md",
+      "isDirectory": false
+    }
+  ]
+}
